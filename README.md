@@ -1,1 +1,1 @@
-[https://vitek2711.github.io/rsschool-cv/cv](https://vitek2711.github.io/rsschool-cv/cv)
+[Markdown-CV](https://github.com/vitek2711/rsschool-cv/blob/gh-pages/cv.md)
