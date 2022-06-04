@@ -16,6 +16,10 @@
 |:-----|:-----|:-----|:-----|
 |Higher pedagogical education|Teacher|36|English (A1), German (B1), Russian (native), Belorussian (native)|
 
+I always strive to gain new knowledge and skills to grow as a professional. My main goal is to study web technologies, to develop web sites and apps that help people every day and make the world a better place. I am a responsible, communicative, ambitious person. I enjoy helping people and sharing my knowledge. I am reliable, creative, efficient and experienced in working in team. Passionate about sport and healthy life. 
+
+I have always been interested in technologies and computers therefore I was working in this field for the last years.
+
 ***
 
 ### **My projects:**
