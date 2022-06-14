@@ -1,2 +1,3 @@
-# rsschool-cv
-RSschool repository
+[https://vitek2711.github.io/rsschool-cv/cv](https://vitek2711.github.io/rsschool-cv/cv)
+
+[html-css-cv](https://vitek2711.github.io/rsschool-cv/)
